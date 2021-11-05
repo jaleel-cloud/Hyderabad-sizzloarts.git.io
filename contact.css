@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(images/background.PNG);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+}
+.main-contact{
+    display: block;
+    height: 500px;
+width: 500px;
+background-color: #D0CAB2;
+position: absolute;
+left: 400px;
+top: 50px;
+border-radius: 30px;
+
+
+}
+.instagram{
+ display: block;
+
+ position: relative;
+ left: 140px;
+ top: 20px;
+ 
+
+
+}
+.whatsapp{
+    display: block;
+    position: relative;
+    left: 140px;
+   top: 90px;
+}

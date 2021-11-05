@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(images/background.PNG);
+    background-size: cover;
+    background-position: fixed;
+}
+.main-div{
+    display: block;
+    width: 700px;
+height: 1800px;
+background-color: white;
+position: relative;
+left: 300px;
+
+}
+video{
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    display:inline;
+}
